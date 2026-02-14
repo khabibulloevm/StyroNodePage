@@ -68,6 +68,10 @@ header.scrolled {
     transition-delay: 300ms;
 }
 
+.delay-400 {
+    transition-delay: 400ms;
+}
+
 /* Custom Scrollbar */
 ::-webkit-scrollbar {
     width: 10px;
